@@ -1,7 +1,7 @@
-# GPS Location Tracker
+# Real Time Gps Tracker
 
 ## Overview
-The **GPS Location Tracker** is a real-time location tracking web application that fetches the user's current latitude, longitude, and accuracy, and provides a direct link to view the location on Google Maps. The UI is built using Tailwind CSS for a sleek and modern design.
+The **Real Time Gps Tracker** is a real-time location tracking web application that fetches the user's current latitude, longitude, and accuracy, and provides a direct link to view the location on Google Maps. The UI is built using Tailwind CSS for a sleek and modern design.
 
 ## Features
 - **Real-Time Location Tracking**: Updates user location dynamically.
@@ -24,11 +24,11 @@ The **GPS Location Tracker** is a real-time location tracking web application th
 ## Setup & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/gps-location-tracker.git
+   git clone https://github.com/Eshab01/Real-time-gps-tracker.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd gps-location-tracker
+   cd Real-time-gps-tracker
    ```
 3. Open `index.html` in a browser.
 4. Grant location access when prompted.
